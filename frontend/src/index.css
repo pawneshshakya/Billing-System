@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  /* width: 1512px;
+  height: 982px; */
+}
+.topbar {
+  background-color: #262562 !important;
+  height: 86px !important;
+}
+.sidebar {
+  margin-top: 75px !important;
+}
+.wrapper {
+  margin-left: 177px;
+}
+.css-cveggr-MuiListItemIcon-root {
+  min-width: 40px !important;
+}

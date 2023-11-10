@@ -1,0 +1,11 @@
+const baseUrl = process.env.REACT_APP_BASE_URL;
+export const saveCustomerUrl = `${baseUrl}/saveCustomer`;
+export const getCustomersListUrl = `${baseUrl}/getCustomersList`;
+export const getCustomerUrl = `${baseUrl}/getCustomer`;
+export const saveItemUrl = `${baseUrl}/saveItem`;
+export const getItemsListUrl = `${baseUrl}/getItemsList`;
+export const getItemUrl = `${baseUrl}/getItem`;
+export const generateInvoiceUrl = `${baseUrl}/generateInvoice`;
+export const getInvoiceUrl = `${baseUrl}/getInvoice`;
+export const getInvoiceListUrl = `${baseUrl}/getInvoiceList`;
+export const searchInvoiceUrl = `${baseUrl}/searchInvoice`;
